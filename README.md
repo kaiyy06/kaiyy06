@@ -4,6 +4,10 @@
 
 <p align="center">kalpitdas8@gmail.com</p>
 
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/kaiyy06/kaiyy06/main/assets/cat.gif" />
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kaeh.ssi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaeh.ssi" height="30" width="40" /></a>

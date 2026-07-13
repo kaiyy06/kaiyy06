@@ -28,7 +28,7 @@
 
 - Full-stack developer with a focus on AI/ML — building with LLMs, RAG, and multi-agent systems
 - Currently working on ML-based software cost estimation research
-- I also ship small creative web projects — a burn-after-writing notes app and a one-button action game
+- I also ship creative web projects.
 
 ## Tech Stack
 

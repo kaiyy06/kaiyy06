@@ -11,9 +11,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1500&color=CCCCCC&center=true&vCenter=true&width=400&lines=full-stack+developer;ai%2Fml+engineer;open+source+contributor" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1500&color=555555&center=true&vCenter=true&width=400&lines=full-stack+developer;ai%2Fml+engineer;open+source+contributor" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1500&color=555555&center=true&vCenter=true&width=400&lines=full-stack+developer;ai%2Fml+engineer;open+source+contributor" alt="full-stack developer · ai/ml engineer · open source contributor" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=CCCCCC&center=true&vCenter=true&width=440&lines=Builder+at+Heart.;building+things+that+think;code.+ship.+repeat." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=555555&center=true&vCenter=true&width=440&lines=Builder+at+Heart.;building+things+that+think;code.+ship.+repeat." />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=555555&center=true&vCenter=true&width=440&lines=Builder+at+Heart.;building+things+that+think;code.+ship.+repeat." alt="Builder at Heart." />
   </picture>
 </p>
 
@@ -27,9 +27,8 @@
 ## About Me
 
 - Full-stack developer with a focus on AI/ML — building with LLMs, RAG, and multi-agent systems
-- Currently working on an AI-powered resume screening & ranking system and ML-based software cost estimation
+- Currently working on ML-based software cost estimation research
 - I also ship small creative web projects — a burn-after-writing notes app and a one-button action game
-- Builder at Heart.
 
 ## Tech Stack
 
@@ -145,24 +144,6 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/kalpit-rooman/resume-screening-ranking-system">Resume Screening & Ranking System</a></h3>
-      <p align="center">AI-powered system that screens and ranks resumes against job descriptions.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/NLP-4EA94B?style=flat-square&logoColor=white" alt="NLP" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/kalpit-rooman/Software-Cost-Estimation">Software Cost Estimation</a></h3>
-      <p align="center">ML models for predicting development effort — Linear Regression, Random Forest, XGBoost, and a PSO-optimized 1D CNN.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/kalpit-rooman/BURNote">BURNote</a></h3>
       <p align="center">Write your note with what you want to let go. Then burn it down.</p>
       <p align="center">
@@ -177,12 +158,34 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center"><a href="https://github.com/kalpit-rooman/Software-Cost-Estimation">Software Cost Estimation</a></h3>
+      <p align="center">ML research on predicting development effort — Linear Regression, Random Forest, XGBoost, and a PSO-optimized 1D CNN.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 <br>
 
+<div align="center">
+<pre>
+   ∧,,,∧
+  (  ̳• · • ̳)
+  /    づ♡   thanks for stopping by
+</pre>
+</div>
+
 <p align="center">
-  <img src="assets/cat.gif" alt="cat" width="120" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=5000&pause=2000&color=888888&center=true&vCenter=true&width=440&lines=curiosity+didn%27t+kill+this+cat+%E2%80%94+it+built+one." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=5000&pause=2000&color=888888&center=true&vCenter=true&width=440&lines=curiosity+didn%27t+kill+this+cat+%E2%80%94+it+built+one." />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=5000&pause=2000&color=888888&center=true&vCenter=true&width=440&lines=curiosity+didn%27t+kill+this+cat+%E2%80%94+it+built+one." alt="curiosity didn't kill this cat — it built one." />
+  </picture>
 </p>
 
 <p align="center">
